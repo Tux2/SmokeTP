@@ -1,0 +1,8 @@
+name: SmokeTP
+main: me.waffletastic.SmokeTP.SmokeTP
+version: 1.0
+author: Waffletastic and Sluijsens
+permissions:
+  smoketp.smoke:
+    description: Allows the smoke to show on teleport.
+    default: false
