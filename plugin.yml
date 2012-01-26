@@ -1,6 +1,6 @@
 name: SmokeTP
 main: me.waffletastic.SmokeTP.SmokeTP
-version: 1.0
+version: 1.1_4
 author: Waffletastic and Sluijsens
 permissions:
   smoketp.smoke:
